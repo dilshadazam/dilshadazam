@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilshadazam
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...java,aws
+- 🌱 I’m currently learning ...react js , aws
 - 💞️ I’m looking to collaborate on ...enhancing coding knowledge
 - 📫 How to reach me ...dilshadazam.official@gmail.com
 
