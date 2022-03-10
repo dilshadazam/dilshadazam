@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **NEO BANKING**
 
-- 🌱 I’m currently learning **Flutter ,MERN**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://dilshadazam.github.io/portfolio/](https://dilshadazam.github.io/portfolio/)
 
