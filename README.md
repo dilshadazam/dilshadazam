@@ -12,8 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dilshadazam.github.io/portfolio/](https://dilshadazam.github.io/portfolio/)
 
-- 📄 Know about my experiences <target="blank"[(https://drive.google.com/file/d/1nhpcEcLhm_ydWFmKY0EUCAIM8WtRbjsf/view)](https://dilshadazam.github.io/portfolio/gallery.html)>
-
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1nhpcEcLhm_ydWFmKY0EUCAIM8WtRbjsf/view)](https://dilshadazam.github.io/portfolio/gallery.html)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/md-dilshad-a-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-dilshad-a-" height="30" width="40" /></a>
