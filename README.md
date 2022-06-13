@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dilshadazam.github.io/portfolio/](https://dilshadazam.github.io/portfolio/)
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1nhpcEcLhm_ydWFmKY0EUCAIM8WtRbjsf/view](https://drive.google.com/file/d/1nhpcEcLhm_ydWFmKY0EUCAIM8WtRbjsf/view)](https://dilshadazam.github.io/portfolio/gallery.html)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1nhpcEcLhm_ydWFmKY0EUCAIM8WtRbjsf/view)](https://dilshadazam.github.io/portfolio/gallery.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
