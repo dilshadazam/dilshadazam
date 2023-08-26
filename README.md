@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **{ ARBITRATION MANAGEMENT TOOL } National Payments Corporation of India**<img src="https://tse1.mm.bing.net/th?id=OIP.WBYYLmncUkyftsNU3lcnLAHaDY&pid=Api&rs=1&c=1&qlt=95&w=258&h=117" alt="javascript" width="100" height="50"/>
-
+- 🔭 I’m currently working on **ARBITRATION MANAGEMENT TOOL**<img src="https://tse1.mm.bing.net/th?id=OIP.WBYYLmncUkyftsNU3lcnLAHaDY&pid=Api&rs=1&c=1&qlt=95&w=258&h=117" alt="javascript" width="100" height="50"/>
+.
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://dilshadazam.github.io/portfolio/](https://dilshadazam.github.io/portfolio/)
