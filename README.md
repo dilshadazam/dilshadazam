@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **{ ARBITRATION MANAGEMENT TOOL } National Payments Corporation of India**<img src="https://www.npci.org.in/images/npci/logo.png" alt="javascript" width="60" height="30"/>
+- 🔭 I’m currently working on **{ ARBITRATION MANAGEMENT TOOL } National Payments Corporation of India**<img src="https://scontent.fblr1-7.fna.fbcdn.net/v/t39.30808-6/369741497_272108098918579_5125813213079325602_n.jpg?stp=dst-jpg_p296x100&_nc_cat=107&ccb=1-7&_nc_sid=110474&_nc_ohc=EAU8y7K4W_8AX-7PDnH&_nc_ht=scontent.fblr1-7.fna&oh=00_AfBSXbRU4fMCikOatovIBqKyO6eyt34BD-Y4bUkduINxGA&oe=64EE401F" alt="javascript" width="60" height="30"/>
 
 - 🌱 I’m currently learning **Flutter**
 
