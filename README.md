@@ -1,25 +1,123 @@
-<h1 align="center">Hi 👋, I'm Dilshad Azam</h1>
-<h3 align="center">A passionate MERN STACK DEV from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3podmd2YndnN215dTg1cG9wMjV4ajhhcDNodWtxaGh2dWs4M3FxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+# 👋 Hi, I'm Dilshad Azam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshadazam&label=Profile%20views&color=0e75b6&style=flat" alt="dilshadazam" /> </p>
+<h3 align="center">Full Stack Developer | React.js | Node.js | Express.js | MySQL</h3>
 
-
-
-- 🔭 Working for <img src="https://tse1.mm.bing.net/th?id=OIP.WBYYLmncUkyftsNU3lcnLAHaDY&pid=Api&rs=1&c=1&qlt=95&w=258&h=117" alt="javascript" width="100" height="50"/>
-.
-- 🌱 I’m currently learning **CLOUD ENGINEERING**
-
-- 👨‍💻 All of my projects are available at [https://dilshadazam.github.io/portfolio/](https://dilshadazam.github.io/portfolio/)
-
-(https://dilshadazam.github.io/portfolio/gallery.html)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/md-dilshad-a-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-dilshad-a-" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17458568/er-dilshad-azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17458568/er-dilshad-azam" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://stackoverflow.com/users/17458568/er-dilshad-azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://stackoverflow.com/users/17458568/er-dilshad-azam" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Developing+RESTful+APIs;Creating+Great+User+Experiences;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3podmd2YndnN215dTg1cG9wMjV4ajhhcDNodWtxaGh2dWs4M3FxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
+### 👨‍💻 About Me
+
+I'm a passionate **Full Stack Developer with 4+ years of professional experience** building modern, scalable, and user-friendly web applications.
+
+I specialize in frontend development with React.js and backend engineering with Node.js and Express.js. I enjoy transforming complex business requirements into efficient, maintainable software solutions.
+
+- 🔭 Previously worked at **Sequro Technologies Pvt. Ltd.**
+- 💻 4+ years of experience in Full Stack Development.
+- ⚛️ Strong expertise in React.js, JavaScript, Node.js & Express.js.
+- ⚡ Experienced in Redis caching and MySQL optimization.
+- 🔐 Experienced in REST APIs, authentication, RBAC & multi-tenant applications.
+- ☁️ Working knowledge of AWS, Docker & CI/CD.
+- 🌱 Continuously exploring TypeScript, MongoDB, GraphQL & system design.
+- 🚀 Passionate about building scalable and high-performance applications.
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" /></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" width="45" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="45" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" /></a>
+  <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45" /></a>
+</p>
+
+---
+
+### 💼 Professional Experience
+
+**Full Stack Developer | Sequro Technologies Pvt. Ltd.**
+
+- Developed and maintained enterprise-level web applications.
+- Built responsive interfaces and reusable components using React.js.
+- Developed backend services and REST APIs using Node.js and Express.js.
+- Implemented authentication, authorization, and role-based access control.
+- Optimized MySQL queries and implemented Redis caching.
+- Worked with AWS services, Docker, and CI/CD workflows.
+- Collaborated on production applications and resolved technical issues.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| PayCel Money | Loan Origination System, CRM & customer portal | React, Node.js, MySQL |
+| NPCI Arbitration Management | Enterprise arbitration management application | React, JavaScript |
+| NPCI MFA Service | Multi-factor authentication and admin CRM | Node.js, Express.js |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dilshadazam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshadazam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dilshadazam&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dilshadazam/dilshadazam/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://dilshad.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-dilshad-a-0b930811/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/dilshadazam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+📧 **Email:** dilshadazam.official@gmail.com
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Improve. Repeat."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilshadazam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
